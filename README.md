@@ -24,7 +24,7 @@ Several options and examples are shown below. **I strongly recommend you encapsu
 **Resources:**
 
 * OpenStudio SDK documentation: https://openstudio-sdk-documentation.s3.amazonaws.com/index.html
-* EnergyPlus Python API documentation: https://nrel.github.io/EnergyPlus/api/python/
+* EnergyPlus Python API documentation: https://energyplus.readthedocs.io/en/latest/api.html
 
 ## Demo
 
