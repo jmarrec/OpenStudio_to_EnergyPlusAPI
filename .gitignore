@@ -1,5 +1,6 @@
 test.idf
 out/
+test_schedules/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
