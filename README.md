@@ -1,6 +1,6 @@
 # Python: using OpenStudio Bindings, EnergyPlus API, and matplotlib
 
-Written By Julien Marrec of [EffiBEM](https://www.effibem.com), circa 2021-01-05.
+Written By Julien Marrec of [EffiBEM](https://effibem.com), circa 2021-01-05.
 
 ## Purpose
 
@@ -29,3 +29,8 @@ Several options and examples are shown below. **I strongly recommend you encapsu
 ## Demo
 
 ![](images/interactive_plot.gif)
+
+
+This is free software (MIT License) contributed by [EffiBEM](https://effibem.com).
+
+Leveraging software, [EffiBEM](https://effibem.com) specializes in providing new ways to streamline your workflows and create new tools that work with limited inputs for your specific applications. We also offer support and training services on BEM simulation engines (OpenStudio and EnergyPlus).
